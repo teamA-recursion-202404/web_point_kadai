@@ -1,5 +1,3 @@
-// /Users/myac21/golang/recursion/web_endpoint_0423
-
 package main
 
 import (
